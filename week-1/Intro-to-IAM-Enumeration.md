@@ -177,11 +177,4 @@ cat flag.txt
 
 ---
 
-## Disclaimer
 
-This guide is for educational purposes only. Ensure you handle AWS credentials securely and avoid sharing them publicly.
-
----
-
-**Author:** [Your GitHub Username]  
-**License:** MIT
