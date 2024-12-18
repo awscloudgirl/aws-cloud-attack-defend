@@ -77,9 +77,19 @@ python3 -m pip install s3-account-search
 
 Add the tool to your path:
 
+#### For Bash
+
 ```bash
 echo 'export PATH=$PATH:~/.local/bin' >> ~/.bashrc
 source ~/.bashrc
+```
+
+#### For Zsh
+
+```zsh
+echo 'export PATH=$PATH:~/.local/bin' >> ~/.zshrc
+source ~/.zshrc
+~/.bashrc
 ```
 
 ### Run the Tool
