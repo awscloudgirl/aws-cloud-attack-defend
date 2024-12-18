@@ -118,11 +118,21 @@ Look for the `x-amz-bucket-region` header in the response, e.g., `us-east-1`.
 
 Use the AWS account ID to search for public EBS snapshots in the identified region.
 
+### AWS CLI Command to List Public EBS Snapshots
+
+```bash
+aws ec2 describe-snapshots --owner-ids 107513503799
+```
+
+This command lists all public EBS snapshots owned by the AWS account `107513503799`.
+
 1. Log into the **AWS Management Console**.
 2. Select the **EC2 service**.
 3. In the left-hand menu, click **Snapshots** under **Elastic Block Store**.
 4. Select **Public snapshots**.
 5. Enter the AWS account ID (`107513503799`) in the search field.
+
+![Snapshot](/Images/Snapshot.png)
 
 If any public EBS snapshots are found, you can explore them for sensitive data.
 
