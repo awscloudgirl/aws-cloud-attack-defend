@@ -132,7 +132,7 @@ This command lists all public EBS snapshots owned by the AWS account `1075135037
 4. Select **Public snapshots**.
 5. Enter the AWS account ID (`107513503799`) in the search field.
 
-![Snapshot](/Images/Snapshot.png)
+![Snapshot](/images/Snapshot.png)
 
 If any public EBS snapshots are found, you can explore them for sensitive data.
 
