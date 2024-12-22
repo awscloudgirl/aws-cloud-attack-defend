@@ -191,14 +191,3 @@ aws ec2 describe-snapshots --owner-id self --restorable-by-user-ids all --no-pag
 - **Implement policies to restrict snapshot sharing**.
 
 ---
-
-## Further Reading
-
-- [DEFCON 27 Talk on EBS Public Snapshots](https://www.youtube.com/watch?v=HXM1rBk_wXs)
-- [RhinoSecurityLabs: Exploring AWS EBS Snapshots](https://rhinosecuritylabs.com/aws/exploring-aws-ebs-snapshots/)
-- [Dufflebag Tool by Bishop Fox](https://github.com/bishopfox/dufflebag)
-
----
-
-**Author:** [Your GitHub Username]  
-**License:** MIT
