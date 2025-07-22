@@ -210,7 +210,7 @@ This guide covered:
 ## Resources
 
 * [AWS IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
-* [PwnedLabs Cloud Attack & Defense Bootcamp](https://pwnedlabs.io)
-* Tested from terminal environments like PwndCloudOS
+* [PwnedLabs Cloud Attack & Defense Bootcamp](https://bootcamps.pwnedlabs.io/acrtp-bootcamp)
+* [Tested from terminal environments like PwndCloudOS](https://pwncloudos.pwnedlabs.io/)
 
 ---
